@@ -1,0 +1,69 @@
+
+/* Class = "IBUITextField"; placeholder = "USER ID"; ObjectID = "1F3-L8-S0Z"; */
+"1F3-L8-S0Z.placeholder" = "USER ID";
+
+/* Class = "IBUILabel"; text = "120"; ObjectID = "1bh-We-CCY"; */
+"1bh-We-CCY.text" = "120";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "2gp-fz-KKV"; */
+"2gp-fz-KKV.normalTitle" = "Login";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "4H6-kA-Ij0"; */
+"4H6-kA-Ij0.text" = "1";
+
+/* Class = "IBUITextField"; placeholder = "PASSWORD"; ObjectID = "5jI-DW-MQR"; */
+"5jI-DW-MQR.placeholder" = "PASSWORD";
+
+/* Class = "IBUILabel"; text = "Posts"; ObjectID = "A4z-ys-xKw"; */
+"A4z-ys-xKw.text" = "Posts";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Jyu-gE-8Od"; */
+"Jyu-gE-8Od.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Paint"; ObjectID = "Kwl-Xj-rDB"; */
+"Kwl-Xj-rDB.text" = "Paint";
+
+/* Class = "IBUIButton"; normalTitle = "Register"; ObjectID = "MV6-4e-Jdo"; */
+"MV6-4e-Jdo.normalTitle" = "Register";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "R35-XB-3ew"; */
+"R35-XB-3ew.normalTitle" = "Login";
+
+/* Class = "IBUILabel"; text = "Share Life and Chat privately with your family and friends"; ObjectID = "UP9-Pq-zhU"; */
+"UP9-Pq-zhU.text" = "Share Life and Chat privately with your family and friends";
+
+/* Class = "IBUILabel"; text = "Paint"; ObjectID = "WW7-if-9FC"; */
+"WW7-if-9FC.text" = "Paint";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Up"; ObjectID = "Xbp-Fa-tjK"; */
+"Xbp-Fa-tjK.normalTitle" = "Sign Up";
+
+/* Class = "IBUILabel"; text = "gl"; ObjectID = "apD-UX-jsS"; */
+"apD-UX-jsS.text" = "gl";
+
+/* Class = "IBUILabel"; text = "completion"; ObjectID = "bHQ-ae-Jet"; */
+"bHQ-ae-Jet.text" = "completion";
+
+/* Class = "IBUILabel"; text = "gl"; ObjectID = "gUG-ul-tQm"; */
+"gUG-ul-tQm.text" = "gl";
+
+/* Class = "IBUIButton"; normalTitle = "cancel"; ObjectID = "ifH-yM-Fqd"; */
+"ifH-yM-Fqd.normalTitle" = "cancel";
+
+/* Class = "IBUIButton"; normalTitle = "cancel"; ObjectID = "lBD-7h-3BS"; */
+"lBD-7h-3BS.normalTitle" = "cancel";
+
+/* Class = "IBUILabel"; text = "Members"; ObjectID = "lTl-63-JSe"; */
+"lTl-63-JSe.text" = "Members";
+
+/* Class = "IBUILabel"; text = "Paint"; ObjectID = "nfB-a4-kOZ"; */
+"nfB-a4-kOZ.text" = "Paint";
+
+/* Class = "IBUILabel"; text = "120"; ObjectID = "oWp-Vw-5D2"; */
+"oWp-Vw-5D2.text" = "120";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "vkf-je-D4d"; */
+"vkf-je-D4d.text" = "Label";
+
+/* Class = "IBUILabel"; text = "gl"; ObjectID = "wYA-Oo-ptg"; */
+"wYA-Oo-ptg.text" = "gl";
